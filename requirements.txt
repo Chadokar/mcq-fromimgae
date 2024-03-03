@@ -1,0 +1,11 @@
+
+fastapi
+fastapi_cors
+filelock
+numpy
+opencv-python
+opencv-python-headless
+python-multipart
+pillow
+scikit-image
+uvicorn
